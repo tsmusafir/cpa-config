@@ -2,6 +2,8 @@
   "redirect_workers": [
     "https://emperor.talha-saleem.workers.dev",
     "https://emperor1.talha-saleem.workers.dev",
-    "https://emperor2.talha-saleem.workers.dev"
+    "https://emperor2.talha-saleem.workers.dev",
+    "https://emperor4.talha-saleem.workers.dev",
+    "https://emperor5.talha-saleem.workers.dev"
   ]
 }
